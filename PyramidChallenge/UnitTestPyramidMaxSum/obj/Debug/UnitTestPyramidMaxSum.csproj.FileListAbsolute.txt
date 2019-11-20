@@ -1,0 +1,17 @@
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\PyramidMaxSumChallenge.exe
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\PyramidMaxSumChallenge.pdb
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\PyramidMaxSumChallenge.exe.config
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\obj\Debug\UnitTestPyramidMaxSum.csprojAssemblyReference.cache
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\obj\Debug\UnitTestPyramidMaxSum.csproj.CoreCompileInputs.cache
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\obj\Debug\UnitTestPyramidMaxSum.csproj.CopyComplete
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\obj\Debug\UnitTestPyramidMaxSum.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\obj\Debug\UnitTestPyramidMaxSum.pdb
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\UnitTestPyramidMaxSum.dll
+F:\MyApp\PyramidChallenge\UnitTestPyramidMaxSum\bin\Debug\UnitTestPyramidMaxSum.pdb

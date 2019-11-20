@@ -1,0 +1,7 @@
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\bin\Debug\PyramidMaxSumChallenge.exe.config
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\bin\Debug\PyramidMaxSumChallenge.exe
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\bin\Debug\PyramidMaxSumChallenge.pdb
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\obj\Debug\PyramidMaxSumChallenge.csprojAssemblyReference.cache
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\obj\Debug\PyramidMaxSumChallenge.csproj.CoreCompileInputs.cache
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\obj\Debug\PyramidMaxSumChallenge.exe
+F:\MyApp\PyramidChallenge\PyramidMaxSumChallenge\obj\Debug\PyramidMaxSumChallenge.pdb
